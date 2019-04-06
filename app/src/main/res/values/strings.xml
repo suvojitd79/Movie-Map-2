@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Map</string>
+    <string name="sort">Display Movies By</string>
+    <string name="sort_key">sort_key</string>
+    <string name="settings">My Preferences</string>
+    <string name="my_fav">My Favourites</string>
+
+
+
+    <!--replace your own api key here-->
+    <string name="api_key">paste your key here</string>
+
+
+
+
+    <string name="language">en-US</string>
+
+    <string name="m_k_1">Popular</string>
+    <string name="m_k_2">Top Rated</string>
+    <string name="m_k_3">Now Playing</string>
+    <string name="m_k_4">Upcoming</string>
+
+
+    <string name="m_v_1">popular</string>
+    <string name="m_v_2">top_rated</string>
+    <string name="m_v_3">now_playing</string>
+    <string name="m_v_4">upcoming</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sort_keys">
+        <item>@string/m_k_1</item>
+        <item>@string/m_k_2</item>
+        <item>@string/m_k_3</item>
+        <item>@string/m_k_4</item>
+    </string-array>
+
+    <string-array name="sort_values">
+        <item>@string/m_v_1</item>
+        <item>@string/m_v_2</item>
+        <item>@string/m_v_3</item>
+        <item>@string/m_v_4</item>
+    </string-array>
+
+</resources>

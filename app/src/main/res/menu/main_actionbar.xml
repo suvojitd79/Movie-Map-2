@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item-->
+        <!--android:title="Search"-->
+        <!--android:icon="@drawable/ic_search_black_24dp"-->
+        <!--android:id="@+id/search_movie"-->
+        <!--app:showAsAction="ifRoom|collapseActionView"-->
+        <!--android:orderInCategory="100"-->
+        <!--/>-->
+
+    <item
+        android:title="favourites"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        android:id="@+id/favourites"
+        android:icon="@drawable/star"
+        />
+
+    <item
+
+        android:iconTint="#FFF"
+        android:orderInCategory="300"
+        android:title="Settings"
+        android:id="@+id/settings"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_dehaze_black_24dp"
+        />
+</menu>
