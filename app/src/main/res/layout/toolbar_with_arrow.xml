@@ -7,5 +7,5 @@
     android:elevation="4dp"
     app:title="@string/settings"
     app:titleTextColor="@android:color/white"
-    app:navigationIcon="@drawable/cancel"
+    app:navigationIcon="@drawable/ic_arrow_back_black_24dp"
     />
